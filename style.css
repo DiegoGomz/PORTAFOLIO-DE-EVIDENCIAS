@@ -1,0 +1,105 @@
+html{
+    background-image: url(https://htmlcolorcodes.com/assets/images/html-color-codes-color-tutorials-hero.jpg);
+    background-size: 120%;
+}
+
+body{
+
+    font-family: 'IBM Plex Sans', sans-serif;
+}
+
+h1{
+    width: 23%;
+    text-align: left;
+    background-color: rgba(0, 0, 0, 0.459);
+    color:rgb(255, 255, 255);
+    font-size: 50px;
+}
+
+h2{
+    width: 12%;
+    text-align: left;
+    background-color: rgba(0, 0, 0, 0.459);
+    color:rgb(255, 255, 255);
+    font-size: 30px;
+}
+
+h3{
+    width: 20%;
+    text-align: left;
+    background-color: rgba(0, 0, 0, 0.459);
+    color:rgb(255, 255, 255);
+    font-size: 25px;
+}
+
+h4{
+    width: 8%;
+    text-align: left;
+    background-color: rgba(0, 0, 0, 0.459);
+    color:rgb(255, 255, 255);
+    font-size: 20px;
+}
+
+.box{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.minibox{
+    display: flex;
+    margin-top: 20px;
+    background-color:rgba(0, 0, 0, 0.459);
+    color: white;
+}
+
+h5{
+    text-align: center;
+    font-size: 25px;
+}
+.tarea{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-right: 30px;
+}
+
+.horario{
+    width: 500px;
+    display: flex;
+    margin: 20px;
+    background-color: (0, 0, 0, 0.459);
+    color: white;
+}
+
+.formu{
+    width: 500px;
+    display: flex;
+    margin: 20px;
+    background-color: (0, 0, 0, 0.459);
+    color: white;
+}
+
+.bio{
+    width: 500px;
+    display: flex;
+    margin: 20px;
+    background-color: (0, 0, 0, 0.459);
+    color: white;
+}
+
+.menuf{
+    width: 500px;
+    display: flex;
+    margin: 20px;
+    background-color: (0, 0, 0, 0.459);
+    color: white;
+}
+
+.menug{
+    width: 500px;
+    display: flex;
+    margin: 20px;
+    background-color: (0, 0, 0, 0.459);
+    color: white;
+}
